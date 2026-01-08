@@ -35,8 +35,11 @@ An AI-powered Streamlit application that enables interactive sales data analysis
 
 │
 ├── app.py # Main Streamlit application
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── .gitignore
 
 --- 
