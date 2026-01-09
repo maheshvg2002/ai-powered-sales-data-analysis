@@ -1,4 +1,4 @@
-# Sales Data Analysis AI
+# AI Powered Sales Data Analysis
 
 An AI-powered Streamlit application that enables interactive sales data analysis using voice commands, visual analytics, and Azure OpenAI–driven insights. Designed for business users and analysts to quickly extract actionable intelligence from structured sales data.
 
