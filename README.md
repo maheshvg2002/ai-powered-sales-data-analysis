@@ -33,11 +33,13 @@ An AI-powered Streamlit application that enables interactive sales data analysis
 
 ## Project Structure
 
-│
 ├── app.py # Main Streamlit application
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
-└── .gitignore
+
+|── .gitignore
 
 --- 
 
@@ -52,13 +54,9 @@ An AI-powered Streamlit application that enables interactive sales data analysis
 git clone https://github.com/<your-username>/sales-data-analysis-ai.git
 cd ai-powered-sales-data-analysis
 
----
-
 Install Dependencies
 
 - pip install -r requirements.txt
-
----
 
 Azure OpenAI Configuration
 
